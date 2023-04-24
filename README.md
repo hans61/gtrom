@@ -9,5 +9,5 @@ Theoretically, a simple ROM banking would also be possible in this way to extend
 
 ![ROM adapter for Gigatron PCB](picture/gigatron-rom-adapter-pcb.jpg)
 
-![ROM adapter for Gigatron](picture/gigatron-rom-adapter.jpg)
+![ROM adapter for Gigatron](picture/gigatron-with-quad-rom.jpg)
 
